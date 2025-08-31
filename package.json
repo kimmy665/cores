@@ -1,0 +1,66 @@
+{
+  "name": "cores",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A modern, responsive admin panel template built with React, TypeScript, and Tailwind CSS.",
+  "keywords": [
+    "react",
+    "vite",
+    "typescript",
+    "webapp",
+    "tailwindcss",
+    "admin",
+    "admin-panel",
+    "responsive"
+  ],
+  "author": {
+    "name": "Farzad Asgari",
+    "email": "khufarzadasgari@gmail.com",
+    "url": "https://farzadasgari.ir"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/farzadasgari/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farzadasgari/cores.git"
+  },
+  "bugs": {
+    "url": "https://github.com/farzadasgari/cores/issues"
+  },
+  "profiles": {
+    "googleScholar": "https://scholar.google.com/citations?user=Rhue_kkAAAAJ&hl=en",
+    "gitHub": "https://github.com/farzadasgari",
+    "x": "https://x.com/farzad_asg",
+    "linkedin": "https://www.linkedin.com/in/farzad-asgari",
+    "researchgate": "https://www.researchgate.net/profile/Farzad-Asgari",
+    "orcid": "https://orcid.org/0009-0008-3800-0408"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "typescript": "~5.8.3",
+    "typescript-eslint": "^8.39.1",
+    "vite": "^7.1.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
