@@ -8,10 +8,18 @@ CoreS
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-crimson?style=for-the-badge)](https://farzadasgari.github.io/cores)
 
 </div>
 
 A modern, responsive admin panel template built with **React**, **TypeScript**, and **Tailwind CSS**.
+
+---
+
+## Live Demo
+
+See the template in action:  
+🚀 **[View Live Demo](https://farzadasgari.github.io/cores)**
 
 ---
 
