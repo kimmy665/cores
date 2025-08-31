@@ -1,69 +1,89 @@
-# React + TypeScript + Vite
+<h1 align="center">
+CoreS
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
 
-Currently, two official plugins are available:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/farzadasgari/cores/blob/main/LICENSE)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
 
-## Expanding the ESLint configuration
+A modern, responsive admin panel template built with **React**, **TypeScript**, and **Tailwind CSS**.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Contributing
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+Contributions are welcome! To contribute:
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+3. Make your changes and commit:
+   ```bash
+   git commit -m "Add your feature"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature/your-feature
+   ```
+5. Open a Pull Request.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## License
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/farzadasgari/cores/blob/main/LICENSE) file for details.
+
+---
+
+## Contact
+
+For any inquiries, please contact:
+- std_farzad.asgari@khu.ac.ir
+- khufarzadasgari@gmail.com
+
+---
+
+
+## Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://farzadasgari.ir/)
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=fff)](https://scholar.google.com/citations?user=Rhue_kkAAAAJ&hl=en)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-0CB?style=for-the-badge&logo=researchgate&logoColor=fff)](https://www.researchgate.net/profile/Farzad-Asgari)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzad-asgari/)
+
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/farzad_asg)
+
+---
+
+## Support & Donations
+
+If you find this template useful, please consider supporting development:
+
+**💸 Crypto Donations**
+- Bitcoin: `bc1qxd8um2jre6xz4je64uhar9eh9uzu9yrvzh08sm`
+- Ethereum: `0xCc8693060409263F68e37f75f76d519c19B2bAdE`
+- USDT (TRC20): `TLL9ou7PahrNob2GEppV3o4e5B9vYqgsJN`
+
+**🌐 Donate via CoinDrop**
+
+<p align="center">
+  <a href="https://coindrop.to/farzadasgari" target="_blank">
+    <img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/farzadasgari">FarZad</a></sub>
+</div>
